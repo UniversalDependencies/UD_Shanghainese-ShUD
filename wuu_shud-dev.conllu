@@ -1,0 +1,1275 @@
+# sent_id = 754
+# text = 晕，算了伐！
+# text_cmn = 晕，算了吧！
+1	晕	晕	VERB	VV	_	3	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	算	算	VERB	VV	_	0	root	_	SpaceAfter=No
+4	了	了	AUX	AS	_	3	aux	_	SpaceAfter=No
+5	伐	伐	PART	UH	_	3	discourse	_	SpaceAfter=No
+6	！	！	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = 困觉前头吃眼物事，李子有减肥功效，明白？
+# text_cmn = 睡觉前吃点东西，李子有减肥功效，明白？
+1	困觉	困觉	VERB	VV	_	3	advcl	_	SpaceAfter=No
+2	前头	前头	ADP	IN	_	1	mark	_	SpaceAfter=No
+3	吃	吃	VERB	VV	_	12	advcl	_	SpaceAfter=No
+4	眼	眼	ADJ	SFN	_	5	amod	_	SpaceAfter=No
+5	物事	物事	NOUN	NN	_	3	obj	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+7	李子	李子	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+8	有	有	VERB	VV	_	12	advcl	_	SpaceAfter=No
+9	减肥	减肥	NOUN	NN	_	10	nmod	_	SpaceAfter=No
+10	功效	功效	NOUN	NN	_	8	obj	_	SpaceAfter=No
+11	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
+12	明白	明白	VERB	VV	_	0	root	_	SpaceAfter=No
+13	？	？	PUNCT	.	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 910
+# text = 吾啊晓得埃呃坏埃有呃好！
+# text_cmn = 我也知道那个坏还有个好！
+1	吾	吾	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	啊	啊	SCONJ	RB	_	3	mark	_	SpaceAfter=No
+3	晓得	晓得	VERB	VV	_	0	root	_	SpaceAfter=No
+4	埃呃	埃呃	DET	DT	_	5	nsubj	_	SpaceAfter=No
+5	坏	坏	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No
+6	埃有	埃有	DET	VV	_	8	nsubj	_	SpaceAfter=No
+7	呃	呃	PART	NNB	_	6	mark	_	SpaceAfter=No
+8	好	好	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 164
+# text = 搿眼机会啊可能没了。
+# text_cmn = 这点机会也可能没了。
+1	搿眼	搿眼	PRON	PRD	_	2	nmod	_	SpaceAfter=No
+2	机会	机会	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
+3	啊	啊	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+4	可能	可能	AUX	MD	_	5	aux	_	SpaceAfter=No
+5	没	没	VERB	VV	_	0	root	_	SpaceAfter=No
+6	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 451
+# text = 失眠了，困伐着！
+# text_cmn = 失眠了，睡不着！
+1	失眠	失眠	VERB	VV	_	4	parataxis	_	SpaceAfter=No
+2	了	了	PART	UH	_	1	discourse	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+4	困	困	VERB	VV	_	0	root	_	SpaceAfter=No
+5	伐着	伐着	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No
+6	！	！	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 933
+# text = 好，明朝夜头侬会彻底失去吾。
+# text_cmn = 好，明天晚上你会彻底失去我。
+1	好	好	INTJ	RB	_	8	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	明朝	明朝	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+4	夜头	夜头	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+5	侬	侬	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+6	会	会	AUX	MD	_	8	aux	_	SpaceAfter=No
+7	彻底	彻底	ADV	RB	_	8	advmod	_	SpaceAfter=No
+8	失去	失去	VERB	VV	_	0	root	_	SpaceAfter=No
+9	吾	吾	PRON	PRP	_	8	obj	_	SpaceAfter=No
+10	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 1000
+# text = 嘻嘻，就是侬用做校友那张啦，嘻嘻。
+# text_cmn = 嘻嘻，就是你用做校友那张啦，嘻嘻。
+1	嘻嘻	嘻嘻	INTJ	VV	_	9	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	就是	就是	AUX	VC	_	9	cop	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+5	用	用	VERB	VV	_	9	advcl	_	SpaceAfter=No
+6	做	做	VERB	VV	_	5	xcomp	_	SpaceAfter=No
+7	校友	校友	NOUN	NN	_	6	obj	_	SpaceAfter=No
+8	那	那	DET	DT	_	9	det	_	SpaceAfter=No
+9	张	张	NOUN	NNB	_	0	root	_	SpaceAfter=No
+10	啦	啦	PART	NN	_	9	discourse	_	SpaceAfter=No
+11	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
+12	嘻嘻	嘻嘻	INTJ	VV	_	9	discourse	_	SpaceAfter=No
+13	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 957
+# text = 没，伊问过王小含呃，吾就辣该旁边讲呃没。
+# text_cmn = 没，他问过王小含的，我就在旁边说的没有。
+1	没	没	INTJ	VV	_	4	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	伊	伊	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+4	问过	问过	VERB	VV	_	0	root	_	SpaceAfter=No
+5	王小含	王小含	PROPN	NNP	_	4	obj	_	SpaceAfter=No
+6	呃	呃	PART	UH	_	4	discourse	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+8	吾	吾	PRON	PRP	_	12	nsubj	_	SpaceAfter=No
+9	就	就	SCONJ	RB	_	12	mark	_	SpaceAfter=No
+10	辣该	辣该	VERB	VV	_	12	advcl	_	SpaceAfter=No
+11	旁边	旁边	NOUN	NN	_	10	obj	_	SpaceAfter=No
+12	讲呃	讲呃	VERB	VV	_	4	parataxis	_	SpaceAfter=No
+13	没	没	VERB	VV	_	12	xcomp	_	SpaceAfter=No
+14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 668
+# text = 那买烟伐？
+# text_cmn = 你们买烟吗？
+1	那	那	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	买	买	VERB	VV	_	0	root	_	SpaceAfter=No
+3	烟	烟	NOUN	NN	_	2	obj	_	SpaceAfter=No
+4	伐	伐	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+5	？	？	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 803
+# text = 吾刚汏好衣裳了，今朝又伐能困。
+# text_cmn = 我刚洗好衣服了，今天又不能睡。
+1	吾	吾	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	刚	刚	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	汏	汏	VERB	VV	_	11	parataxis	_	SpaceAfter=No
+4	好	好	PART	PFA	_	5	case	_	SpaceAfter=No
+5	衣裳	衣裳	NOUN	NN	_	3	obj	_	SpaceAfter=No
+6	了	了	PART	UH	_	3	discourse	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+8	今朝	今朝	NOUN	NN	_	11	nmod	_	SpaceAfter=No
+9	又	又	SCONJ	RB	_	11	mark	_	SpaceAfter=No
+10	伐能	伐能	AUX	MD	_	11	aux	_	SpaceAfter=No
+11	困	困	VERB	VV	_	0	root	_	SpaceAfter=No
+12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 928
+# text = 早点休息，困觉，猪。
+# text_cmn = 早点休息，睡觉，猪。
+1	早点	早点	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	休息	休息	VERB	VV	_	4	parataxis	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	困觉	困觉	VERB	VV	_	0	root	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
+6	猪	猪	NOUN	NN	_	4	vocative	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 783
+# text = 夜头辣哪里的困？
+# text_cmn = 晚上在哪里睡？
+1	夜头	夜头	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	辣	辣	VERB	VV	_	4	advcl	_	SpaceAfter=No
+3	哪里的	哪里的	PRON	WP	_	2	obj	_	SpaceAfter=No
+4	困	困	VERB	VV	_	0	root	_	SpaceAfter=No
+5	？	？	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 938
+# text = 没关系，吾到屋里相了，困了。
+# text_cmn = 没关系，我到家里面了，睡了。
+1	没	没	VERB	VV	_	10	advcl	_	SpaceAfter=No
+2	关系	关系	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+4	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+5	到	到	VERB	VV	_	10	parataxis	_	SpaceAfter=No
+6	屋	屋	NOUN	NN	_	7	nmod	_	SpaceAfter=No
+7	里相	里相	NOUN	NN	_	5	obj	_	SpaceAfter=No
+8	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
+9	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
+10	困	困	VERB	VV	_	0	root	_	SpaceAfter=No
+11	了	了	PART	UH	_	10	discourse	_	SpaceAfter=No
+12	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 712
+# text = 宝贝最听话了！
+# text_cmn = 宝贝最听话了！
+1	宝贝	宝贝	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
+2	最	最	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	听话	听话	VERB	VV	_	0	root	_	SpaceAfter=No
+4	了	了	PART	UH	_	3	discourse	_	SpaceAfter=No
+5	！	！	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 120
+# text = 前头伐是辣辣上网吗？
+# text_cmn = 前面不是在上网吗？
+1	前头	前头	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	伐是	伐是	VERB	VC	_	0	root	_	SpaceAfter=No
+3	辣辣	辣辣	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	上网	上网	VERB	VV	_	2	xcomp	_	SpaceAfter=No
+5	吗	吗	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+6	？	？	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 753
+# text = 萱，回来了！那孛相伐！
+# text_cmn = 萱，回来了！你们玩吧！
+1	萱	萱	PROPN	NNP	_	3	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	回来	回来	VERB	VV	_	0	root	_	SpaceAfter=No
+4	了	了	AUX	AS	_	3	aux	_	SpaceAfter=No
+5	！	！	PUNCT	``	_	3	punct	_	SpaceAfter=No
+6	那	那	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+7	孛相	孛相	VERB	VV	_	3	parataxis	_	SpaceAfter=No
+8	伐	伐	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	！	！	PUNCT	''	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 831
+# text = 老让吾感动耶！
+# text_cmn = 很让我感动耶！
+1	老	老	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	让	让	VERB	VV	_	0	root	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+4	感动	感动	VERB	VV	_	2	ccomp	_	SpaceAfter=No
+5	耶	耶	PROPN	NNP	_	4	obj	_	SpaceAfter=No
+6	！	！	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 13
+# text = 老公，吾困高了，要想吾！
+# text_cmn = 老公，我睡觉了，要想我！
+1	老公	老公	NOUN	NN	_	4	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+4	困高	困高	VERB	VV	_	0	root	_	SpaceAfter=No
+5	了	了	AUX	UH	_	4	aux	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
+7	要	要	AUX	MD	_	8	aux	_	SpaceAfter=No
+8	想	想	VERB	VV	_	4	parataxis	_	SpaceAfter=No
+9	吾	吾	PRON	PRP	_	8	obj	_	SpaceAfter=No
+10	！	！	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 575
+# text = 吾能回来呃闲话，阿拉再也伐分开了！
+# text_cmn = 我能回来的话，我们再也不分开了！
+1	吾	吾	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	能	能	AUX	MD	_	3	aux	_	SpaceAfter=No
+3	回来	回来	VERB	VV	_	11	advcl	_	SpaceAfter=No
+4	呃	呃	SCONJ	DEC	_	3	mark	_	SpaceAfter=No
+5	闲话	闲话	SCONJ	NN	_	4	goeswith	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+7	阿拉	阿拉	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+8	再	再	ADV	RB	_	11	advmod	_	SpaceAfter=No
+9	也	也	SCONJ	RB	_	11	mark	_	SpaceAfter=No
+10	伐	伐	ADV	RB	_	11	advmod	_	SpaceAfter=No
+11	分开	分开	VERB	VV	_	0	root	_	SpaceAfter=No
+12	了	了	PART	UH	_	11	discourse	_	SpaceAfter=No
+13	！	！	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 261
+# text = 看中人家啦？
+# text_cmn = 看中人家啦？
+1	看中	看中	VERB	VV	_	0	root	_	SpaceAfter=No
+2	人	人	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	家	家	NOUN	SFN	_	2	goeswith	_	SpaceAfter=No
+4	啦	啦	PART	UH	_	1	discourse	_	PartType=Int|SpaceAfter=No
+5	？	？	PUNCT	.	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 549
+# text = 好有辰光去光临。
+# text_cmn = 好有时间去光临。
+1	好	好	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	有	有	VERB	VV	_	5	advcl	_	SpaceAfter=No
+3	辰光	辰光	NOUN	NN	_	2	obj	_	SpaceAfter=No
+4	去	去	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	光临	光临	VERB	VV	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 485
+# text = 吃力了一天了，汏伐动了！
+# text_cmn = 累了一天了，洗不动了！
+1	吃力	吃力	VERB	VV	_	7	parataxis	_	SpaceAfter=No
+2	了	了	AUX	AS	_	1	aux	_	SpaceAfter=No
+3	一天	一天	VERB	VV	_	1	xcomp	_	SpaceAfter=No
+4	了	了	PART	UH	_	1	discourse	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+6	汏	汏	VERB	VV	_	7	advcl	_	SpaceAfter=No
+7	伐动	伐动	VERB	VV	_	0	root	_	SpaceAfter=No
+8	了	了	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 828
+# text = 吾就搿能噶帮侬讲伐！
+# text_cmn = 我就这样跟你讲吧！
+1	吾	吾	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
+2	就	就	SCONJ	RB	_	6	mark	_	SpaceAfter=No
+3	搿能噶	搿能噶	ADV	RB	_	6	advmod	_	SpaceAfter=No
+4	帮	帮	ADP	IN	_	5	case	_	SpaceAfter=No
+5	侬	侬	PRON	PRP	_	6	obl	_	SpaceAfter=No
+6	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No
+7	伐	伐	PART	UH	_	6	discourse	_	SpaceAfter=No
+8	！	！	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 396
+# text = 还没困，困伐着，侬喃？辣做撒啊？
+# text_cmn = 还没睡，睡不着，你呢？在做什么啊？
+1	还没	还没	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	困	困	VERB	VV	_	11	parataxis	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	困	困	VERB	VV	_	11	parataxis	_	SpaceAfter=No
+5	伐着	伐着	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	11	parataxis	_	SpaceAfter=No
+8	喃	喃	PART	UH	_	7	discourse	_	PartType=Int|SpaceAfter=No
+9	？	？	PUNCT	,	_	7	punct	_	SpaceAfter=No
+10	辣	辣	ADV	RB	_	11	advmod	_	SpaceAfter=No
+11	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+12	撒	撒	PRON	WP	_	11	obj	_	SpaceAfter=No
+13	啊	啊	PART	UH	_	11	discourse	_	PartType=Int|SpaceAfter=No
+14	？	？	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 400
+# text = 搿歇辣做撒。
+# text_cmn = 这会在做什么。
+1	搿歇	搿歇	PRON	PRD	_	3	nsubj	_	SpaceAfter=No
+2	辣	辣	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+4	撒	撒	PRON	WP	_	3	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 67
+# text = 辣该伐？
+# text_cmn = 在吗？
+1	辣该	辣该	VERB	VV	_	0	root	_	SpaceAfter=No
+2	伐	伐	PART	UH	_	1	discourse	_	PartType=Int|SpaceAfter=No
+3	？	？	PUNCT	.	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 621
+# text = 好呃，吾两点前有辰光，后头就没辰光喽。
+# text_cmn = 好的，我两点前有时间，后面就没时间喽。
+1	好	好	ADJ	JJ	_	8	discourse	_	SpaceAfter=No
+2	呃	呃	PART	UH	_	1	discourse	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+4	吾	吾	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+5	两	两	NUM	CD	_	6	nummod	_	SpaceAfter=No
+6	点	点	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+7	前	前	ADP	IN	_	6	case	_	SpaceAfter=No
+8	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
+9	辰光	辰光	NOUN	NN	_	8	obj	_	SpaceAfter=No
+10	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
+11	后头	后头	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
+12	就	就	SCONJ	RB	_	13	mark	_	SpaceAfter=No
+13	没	没	VERB	VV	_	8	conj	_	SpaceAfter=No
+14	辰光	辰光	NOUN	NN	_	13	obj	_	SpaceAfter=No
+15	喽	喽	PUNCT	)	_	13	punct	_	SpaceAfter=No
+16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 958
+# text = 上去困觉伐！
+# text_cmn = 上去睡觉吧！
+1	上去	上去	VERB	VV	_	2	mark	_	SpaceAfter=No
+2	困觉	困觉	VERB	VV	_	0	root	_	SpaceAfter=No
+3	伐	伐	PART	UH	_	2	discourse	_	SpaceAfter=No
+4	！	！	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 710
+# text = 哦，对伐起，让侬担心了。
+# text_cmn = 哦，对不起，让你担心了。
+1	哦	哦	INTJ	PRP	_	6	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	对	对	VERB	IN	_	6	parataxis	_	SpaceAfter=No
+4	伐起	伐起	VERB	VV	_	3	goeswith	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+6	让	让	VERB	VV	_	0	root	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+8	担心	担心	VERB	VV	_	6	ccomp	_	SpaceAfter=No
+9	了	了	PART	UH	_	6	discourse	_	SpaceAfter=No
+10	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 827
+# text = 老婆，搿才几天，侬就勿帮吾过了。
+# text_cmn = 老婆，这才几天，你就不和我过了。
+1	老婆	老婆	NOUN	NN	_	11	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	搿	搿	PRON	PRD	_	5	nsubj	_	SpaceAfter=No
+4	才	才	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	几天	几天	ADJ	JJ	_	11	parataxis	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+8	就	就	SCONJ	RB	_	11	mark	_	SpaceAfter=No
+9	勿帮	勿帮	VERB	VV	_	11	advcl	_	SpaceAfter=No
+10	吾	吾	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+11	过	过	VERB	VV	_	0	root	_	SpaceAfter=No
+12	了	了	PART	UH	_	11	discourse	_	SpaceAfter=No
+13	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 960
+# text = 还想跟侬讲讲闲话呢。
+# text_cmn = 还想跟你讲讲话呢。
+1	还	还	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+2	想	想	AUX	MD	_	5	aux	_	SpaceAfter=No
+3	跟	跟	ADP	IN	_	4	case	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	5	obl	_	SpaceAfter=No
+5	讲讲	讲讲	VERB	VV	_	0	root	_	SpaceAfter=No
+6	闲话	闲话	NOUN	NN	_	5	obj	_	SpaceAfter=No
+7	呢	呢	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
+8	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 653
+# text = 拿侬呃照片拨吾发过好伐？
+# text_cmn = 把你的照片给我发过好吗？
+1	拿	拿	ADP	BB	_	4	case	_	SpaceAfter=No
+2	侬	侬	PRON	PRP	_	4	det	_	SpaceAfter=No
+3	呃	呃	PART	DEC	_	2	case	_	SpaceAfter=No
+4	照片	照片	NOUN	NN	_	7	obl	_	SpaceAfter=No
+5	拨	拨	VERB	VV	_	7	advcl	_	SpaceAfter=No
+6	吾	吾	PRON	PRP	_	5	obj	_	SpaceAfter=No
+7	发	发	VERB	VV	_	0	root	_	SpaceAfter=No
+8	过	过	AUX	AS	_	7	aux	_	SpaceAfter=No
+9	好	好	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No
+10	伐	伐	PART	UH	_	7	discourse	_	PartType=Int|SpaceAfter=No
+11	？	？	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 159
+# text = 晓夜，搿么两个拧十块。
+# text_cmn = 晓夜，这么两个人十块。
+1	晓夜	晓夜	PROPN	NNP	_	8	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	搿么	搿么	ADV	RB	_	8	advmod	_	SpaceAfter=No
+4	两	两	NUM	CD	_	6	nummod	_	SpaceAfter=No
+5	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No
+6	拧	拧	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+7	十	十	NUM	CD	_	8	nummod	_	SpaceAfter=No
+8	块	块	NOUN	NNB	_	0	root	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 115
+# text = 吾觉着吾对侬帮伊是一样呃！
+# text_cmn = 我觉得我对你和他是一样的！
+1	吾	吾	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	觉着	觉着	VERB	VV	_	0	root	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+4	对	对	VERB	IN	_	9	csubj	_	SpaceAfter=No
+5	侬	侬	PRON	PRP	_	4	obj	_	SpaceAfter=No
+6	帮	帮	CCONJ	IN	_	7	case	_	SpaceAfter=No
+7	伊	伊	PRON	PRP	_	5	conj	_	SpaceAfter=No
+8	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
+9	一样	一样	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No
+10	呃	呃	PART	UH	_	9	discourse	_	SpaceAfter=No
+11	！	！	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 50
+# text = 弄快眼 困觉，伐瞎七搭八。
+# text_cmn = 你快点睡觉，不要瞎搞。
+1	弄	弄	PRON	PRP	_	6	parataxis	_	SpaceAfter=No
+2	快眼	快眼	ADV	_	_	3	advmod	_	SpaceAfter=No
+3	困觉	困觉	VERB	VV	_	6	advcl	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+5	伐	伐	AUX	MD	_	6	aux	_	SpaceAfter=No
+6	瞎七搭八	瞎七搭八	VERB	VV	_	0	root	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 789
+# text = 没其它呃意思，侬误解了。
+# text_cmn = 没其它的意思，你误解了。
+1	没	没	VERB	VV	_	7	parataxis	_	SpaceAfter=No
+2	其它	其它	DET	DT	_	4	det	_	SpaceAfter=No
+3	呃	呃	PART	DEC	_	2	case	_	SpaceAfter=No
+4	意思	意思	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+7	误解	误解	VERB	VV	_	0	root	_	SpaceAfter=No
+8	了	了	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 95
+# text = 弄立了房间窗户边上吾就看见弄了。
+# text_cmn = 你站在房间窗户边上我就看见你了。
+1	弄	弄	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	立	立	VERB	VV	_	10	advcl	_	SpaceAfter=No
+3	了	了	VERB	VV	_	2	mark	_	SpaceAfter=No
+4	房间	房间	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	窗户	窗户	NOUN	NN	_	6	compound	_	SpaceAfter=No
+6	边	边	PART	SFN	_	2	obj	_	SpaceAfter=No
+7	上	上	ADP	IN	_	6	case	_	SpaceAfter=No
+8	吾	吾	PRON	PRP	_	10	nsubj	_	SpaceAfter=No
+9	就	就	SCONJ	RB	_	10	mark	_	SpaceAfter=No
+10	看见	看见	VERB	VV	_	0	root	_	SpaceAfter=No
+11	弄	弄	PRON	PRP	_	10	obj	_	SpaceAfter=No
+12	了	了	PART	UH	_	10	discourse	_	SpaceAfter=No
+13	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 513
+# text = 吾已到屋里向，明朝再聊。
+# text_cmn = 我已到家里，明天再聊。
+1	吾	吾	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	已	已	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	到	到	VERB	VV	_	9	parataxis	_	SpaceAfter=No
+4	屋	屋	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	里向	里向	ADP	IN	_	4	case	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+7	明朝	明朝	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+8	再	再	ADV	RB	_	9	advmod	_	SpaceAfter=No
+9	聊	聊	VERB	VV	_	0	root	_	SpaceAfter=No
+10	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 529
+# text = 葛伊同意伐？
+# text_cmn = 那他同意吗？
+1	葛	葛	ADV	PRD	_	3	advmod	_	SpaceAfter=No
+2	伊	伊	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+3	同意	同意	VERB	VV	_	0	root	_	SpaceAfter=No
+4	伐	伐	PART	UH	_	3	discourse	_	PartType=Int|SpaceAfter=No
+5	？	？	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 144
+# text = 侬也讲过让吾等侬，侬会的实现伊呃！
+# text_cmn = 你也讲过让我等你，你会实现他的！
+1	侬	侬	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	也	也	SCONJ	RB	_	3	mark	_	SpaceAfter=No
+3	讲过	讲过	VERB	VV	_	0	root	_	SpaceAfter=No
+4	让	让	VERB	VV	_	3	xcomp	_	SpaceAfter=No
+5	吾	吾	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
+6	等	等	VERB	VV	_	4	ccomp	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	6	obj	_	SpaceAfter=No
+8	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+9	侬	侬	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+10	会的	会的	AUX	MD	_	11	aux	_	SpaceAfter=No
+11	实现	实现	VERB	VV	_	3	ccomp	_	SpaceAfter=No
+12	伊	伊	PRON	PRP	_	11	obj	_	SpaceAfter=No
+13	呃	呃	PART	DEC	_	11	case	_	SpaceAfter=No
+14	！	！	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 883
+# text = 阿拉忘情特过去伐愈快跟伐开心呃一切！
+# text_cmn = 我们忘掉过去不愉快跟不开心的一切！
+1	阿拉	阿拉	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	忘情特	忘情特	VERB	VV	_	0	root	_	SpaceAfter=No
+3	过去	过去	NOUN	NN	_	10	nmod	_	SpaceAfter=No
+4	伐	伐	ADV	RB	_	5	advmod	_	SpaceAfter=No
+5	愈快	愈快	ADJ	JJ	_	10	amod	_	SpaceAfter=No
+6	跟	跟	CCONJ	VV	_	5	cc	_	SpaceAfter=No
+7	伐	伐	ADV	RB	_	8	advmod	_	SpaceAfter=No
+8	开心	开心	ADJ	JJ	_	5	conj	_	SpaceAfter=No
+9	呃	呃	SCONJ	DEC	_	5	mark	_	SpaceAfter=No
+10	一切	一切	NOUN	NN	_	2	obj	_	SpaceAfter=No
+11	！	！	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 927
+# text = 恩，好妹妹！
+# text_cmn = 恩，好妹妹！
+1	恩	恩	INTJ	NNP	_	4	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	好	好	PART	PFA	_	4	case	_	SpaceAfter=No
+4	妹妹	妹妹	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	！	！	PUNCT	''	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 414
+# text = 最后一天了哦，没事体早眼休息。
+# text_cmn = 最后一天了哦，没事早点休息。
+1	最后	最后	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	一天	一天	VERB	VV	_	0	root	_	SpaceAfter=No
+3	了	了	AUX	AS	_	2	aux	_	SpaceAfter=No
+4	哦	哦	PART	UH	_	2	discourse	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+6	没事体	没事体	VERB	VV	_	8	advcl	_	SpaceAfter=No
+7	早眼	早眼	ADV	RB	_	8	advmod	_	SpaceAfter=No
+8	休息	休息	VERB	VV	_	2	parataxis	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 608
+# text = 侬哪能晓得吾是穿小鞋长大呃？
+# text_cmn = 你怎么知道我是穿小鞋长大呢？
+1	侬	侬	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	哪能	哪能	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	晓得	晓得	VERB	VV	_	0	root	_	SpaceAfter=No
+4	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+5	是	是	VERB	VC	_	3	ccomp	_	SpaceAfter=No
+6	穿	穿	VERB	VV	_	8	advcl	_	SpaceAfter=No
+7	小鞋	小鞋	NOUN	NN	_	6	obj	_	SpaceAfter=No
+8	长大	长大	VERB	VV	_	5	xcomp	_	SpaceAfter=No
+9	呃	呃	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
+10	？	？	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 444
+# text = 可能是对脾气伐，，伐要忘记特明朝拿地址拨吾。
+# text_cmn = 可能是对脾气吧，，不要忘记明天把地址给我。
+1	可能	可能	AUX	MD	_	2	aux	_	SpaceAfter=No
+2	是	是	VERB	VC	_	13	advcl	_	SpaceAfter=No
+3	对	对	ADP	IN	_	5	case	_	SpaceAfter=No
+4	脾气	脾气	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	伐	伐	PART	SFN	_	2	obl	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+8	伐要	伐要	AUX	MD	_	13	aux	_	SpaceAfter=No
+9	忘记特	忘记特	VERB	VV	_	13	advcl	_	SpaceAfter=No
+10	明朝	明朝	NOUN	NN	_	9	obj	_	SpaceAfter=No
+11	拿	拿	ADP	BB	_	12	case	_	SpaceAfter=No
+12	地址	地址	NOUN	NN	_	13	obl	_	SpaceAfter=No
+13	拨	拨	VERB	VV	_	0	root	_	SpaceAfter=No
+14	吾	吾	PRON	PRP	_	13	iobj	_	SpaceAfter=No
+15	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
+
+# sent_id = 609
+# text = 打伐过去辣，显示呼叫失败！
+# text_cmn = 打不过去了，显示呼叫失败！
+1	打	打	VERB	VV	_	6	advcl	_	SpaceAfter=No
+2	伐	伐	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	过去	过去	VERB	VV	_	1	mark	_	SpaceAfter=No
+4	辣	辣	PART	UH	_	1	discourse	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+6	显示	显示	VERB	VV	_	0	root	_	SpaceAfter=No
+7	呼叫	呼叫	VERB	VV	_	6	xcomp	_	SpaceAfter=No
+8	失败	失败	VERB	VV	_	7	xcomp	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 779
+# text = 吾从来没叫古侬亲爱呃。
+# text_cmn = 我从来没叫过你亲爱的。
+1	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	从来	从来	ADV	RB	_	4	advmod	_	SpaceAfter=No
+3	没	没	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	叫	叫	VERB	VV	_	0	root	_	SpaceAfter=No
+5	古	古	AUX	AS	_	4	aux	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+7	亲爱	亲爱	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No
+8	呃	呃	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 273
+# text = 哪能伐讲了，有言在先是撒物事？
+# text_cmn = 怎么不说了，有言在先是什么东西？
+1	哪能	哪能	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	伐讲	伐讲	VERB	VV	_	9	parataxis	_	SpaceAfter=No
+3	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+5	有言	有言	VERB	VV	_	9	csubj	_	SpaceAfter=No
+6	在先	在先	VERB	VV	_	9	csubj	_	SpaceAfter=No
+7	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
+8	撒物	撒物	PRON	WP	_	9	nmod	_	SpaceAfter=No
+9	事	事	NOUN	NN	_	0	root	_	SpaceAfter=No
+10	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 560
+# text = 吾伐是帮侬讲了，吾要是在搿能葛，吾伐得好死！
+# text_cmn = 我不是跟你讲了，我要是再这样，我不得好死！
+1	吾	吾	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	伐是	伐是	VERB	VC	_	0	root	_	SpaceAfter=No
+3	帮	帮	ADP	IN	_	4	case	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	5	obl	_	SpaceAfter=No
+5	讲	讲	VERB	VV	_	2	xcomp	_	SpaceAfter=No
+6	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+8	吾	吾	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+9	要是	要是	ADP	IN	_	11	case	_	SpaceAfter=No
+10	在	在	ADV	RB	_	11	advmod	_	SpaceAfter=No
+11	搿能葛	搿能葛	PRON	PRD	_	15	obl	_	SpaceAfter=No
+12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
+13	吾	吾	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
+14	伐得	伐得	AUX	MD	_	15	aux	_	SpaceAfter=No
+15	好死	好死	VERB	VV	_	2	parataxis	_	SpaceAfter=No
+16	！	！	PUNCT	.	_	15	punct	_	SpaceAfter=No
+
+# sent_id = 976
+# text = 还再忙，侬要送吾回去吗？
+# text_cmn = 还再忙，你要送我回去吗？
+1	还再	还再	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	忙	忙	VERB	VV	_	0	root	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+5	要	要	AUX	MD	_	6	aux	_	SpaceAfter=No
+6	送	送	VERB	VV	_	8	advcl	_	SpaceAfter=No
+7	吾	吾	PRON	PRP	_	6	obj	_	SpaceAfter=No
+8	回去	回去	VERB	VV	_	2	parataxis	_	SpaceAfter=No
+9	吗	吗	PART	UH	_	8	discourse	_	PartType=Int|SpaceAfter=No
+10	？	？	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 777
+# text = 回答了老好！
+# text_cmn = 回答的很好！
+1	回答	回答	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	DEC	_	1	compound	_	SpaceAfter=No
+3	老好	老好	ADJ	JJ	_	1	xcomp	_	SpaceAfter=No
+4	！	！	PUNCT	.	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 256
+# text = 宝贝困高了伐？
+# text_cmn = 宝贝睡觉了吗？
+1	宝贝	宝贝	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
+2	困高	困高	VERB	VV	_	0	root	_	SpaceAfter=No
+3	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
+4	伐	伐	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+5	？	？	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 994
+# text = 让吾该晓得哪能去选择。
+# text_cmn = 让我该知道怎么去选择。
+1	让	让	VERB	VV	_	0	root	_	SpaceAfter=No
+2	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+3	该	该	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	晓得	晓得	VERB	VV	_	1	ccomp	_	SpaceAfter=No
+5	哪能	哪能	ADV	RB	_	7	advmod	_	SpaceAfter=No
+6	去	去	SCONJ	RB	_	7	mark	_	SpaceAfter=No
+7	选择	选择	VERB	VV	_	4	xcomp	_	SpaceAfter=No
+8	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 275
+# text = 好呃，再见，明朝再见。
+# text_cmn = 好的，再见，明天再见。
+1	好	好	ADJ	JJ	_	7	parataxis	_	SpaceAfter=No
+2	呃	呃	PART	UH	_	1	discourse	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+4	再见	再见	VERB	VV	_	7	parataxis	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+6	明朝	明朝	NOUN	NN	_	7	nmod	_	SpaceAfter=No
+7	再见	再见	VERB	VV	_	0	root	_	SpaceAfter=No
+8	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 149
+# text = 礼拜五好碰着头伐？
+# text_cmn = 礼拜五能碰个头吗？
+1	礼拜	礼拜	PROPN	VV	_	4	nmod	_	SpaceAfter=No
+2	五	五	NUM	CD	_	1	punct	_	SpaceAfter=No
+3	好	好	AUX	MD	_	4	aux	_	SpaceAfter=No
+4	碰	碰	VERB	VV	_	0	root	_	SpaceAfter=No
+5	着	着	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+6	头	头	NOUN	NN	_	4	obj	_	SpaceAfter=No
+7	伐	伐	PART	UH	_	4	discourse	_	PartType=Int|SpaceAfter=No
+8	？	？	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 475
+# text = 哦，到阿里啊，应该还可以。
+# text_cmn = 哦，到哪里啊，应该还可以。
+1	哦	哦	INTJ	''	_	9	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	到	到	VERB	VV	_	9	parataxis	_	SpaceAfter=No
+4	阿里	阿里	PRON	WP	_	3	obj	_	SpaceAfter=No
+5	啊	啊	PART	UH	_	3	discourse	_	PartType=Int|SpaceAfter=No
+6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+7	应该	应该	AUX	MD	_	9	aux	_	SpaceAfter=No
+8	还	还	SCONJ	RB	_	9	mark	_	SpaceAfter=No
+9	可以	可以	AUX	MD	_	0	root	_	SpaceAfter=No
+10	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 670
+# text = 吾刚收好摊子准备去跳舞。
+# text_cmn = 我刚收好摊子准备去跳舞。
+1	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+2	刚	刚	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	收好	收好	VERB	VV	_	5	advcl	_	SpaceAfter=No
+4	摊子	摊子	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	准备	准备	VERB	VV	_	0	root	_	SpaceAfter=No
+6	去	去	SCONJ	RB	_	7	mark	_	SpaceAfter=No
+7	跳舞	跳舞	VERB	VV	_	5	xcomp	_	SpaceAfter=No
+8	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 411
+# text = 刚刚汏好，夜到又没哪能看书对伐？
+# text_cmn = 刚刚洗好，晚上又没怎么看书对吗？
+1	刚刚	刚刚	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	汏	汏	VERB	VV	_	11	parataxis	_	SpaceAfter=No
+3	好	好	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+5	夜到	夜到	NOUN	NN	_	11	nmod	_	SpaceAfter=No
+6	又	又	SCONJ	RB	_	11	mark	_	SpaceAfter=No
+7	没	没	ADV	RB	_	9	advmod	_	SpaceAfter=No
+8	哪能	哪能	ADV	RB	_	9	advmod	_	SpaceAfter=No
+9	看	看	VERB	VV	_	11	advcl	_	SpaceAfter=No
+10	书	书	NOUN	NN	_	9	obj	_	SpaceAfter=No
+11	对	对	VERB	VV	_	0	root	_	SpaceAfter=No
+12	伐	伐	PART	UH	_	11	discourse	_	PartType=Int|SpaceAfter=No
+13	？	？	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 519
+# text = 没啥吖，吾阿伐想忒吃力啦！
+# text_cmn = 没什么呀，我也不想太累啦！
+1	没	没	VERB	VV	_	9	advcl	_	SpaceAfter=No
+2	啥	啥	PRON	WP	_	1	obj	_	SpaceAfter=No
+3	吖	吖	PART	UH	_	1	discourse	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+5	吾	吾	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
+6	阿	阿	SCONJ	RB	_	9	mark	_	SpaceAfter=No
+7	伐想	伐想	AUX	MD	_	9	aux	_	SpaceAfter=No
+8	忒	忒	ADV	RB	_	9	advmod	_	SpaceAfter=No
+9	吃力	吃力	ADJ	JJ	_	0	root	_	SpaceAfter=No
+10	啦	啦	PART	UH	_	9	discourse	_	PartType=Int|SpaceAfter=No
+11	！	！	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 685
+# text = 爱侬，么么！
+# text_cmn = 爱你，么么！
+1	爱	爱	VERB	VV	_	0	root	_	SpaceAfter=No
+2	侬	侬	PRON	PRP	_	1	obj	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+4	么么	么么	INTJ	WP	_	1	discourse	_	SpaceAfter=No
+5	！	！	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 221
+# text = 葛末侬晓得伊欢喜侬伐？
+# text_cmn = 那么你知道他欢喜你吗？
+1	葛末	葛末	ADV	RB	_	3	advmod	_	SpaceAfter=No
+2	侬	侬	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+3	晓得	晓得	VERB	VV	_	0	root	_	SpaceAfter=No
+4	伊	伊	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+5	欢喜	欢喜	VERB	VV	_	3	ccomp	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	5	obj	_	SpaceAfter=No
+7	伐	伐	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
+8	？	？	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 328
+# text = 吾没拨侬保证，没拧帮侬抢啊！
+# text_cmn = 我没给你保证，没人跟你抢啊！
+1	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+2	没	没	ADV	RB	_	5	advmod	_	SpaceAfter=No
+3	拨	拨	VERB	VV	_	5	advcl	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	3	obj	_	SpaceAfter=No
+5	保证	保证	VERB	VV	_	10	parataxis	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
+7	没拧	没拧	PROPN	RB	_	10	nsubj	_	SpaceAfter=No
+8	帮	帮	ADP	IN	_	9	case	_	SpaceAfter=No
+9	侬	侬	PRON	PRP	_	10	obl	_	SpaceAfter=No
+10	抢	抢	VERB	VV	_	0	root	_	SpaceAfter=No
+11	啊	啊	PART	UH	_	10	discourse	_	PartType=Int|SpaceAfter=No
+12	！	！	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 750
+# text = 吾亲爱呃老婆，侬等了老许多辰光吧！
+# text_cmn = 我亲爱的老婆，你等了很多时间吧！
+1	吾	吾	PRON	PRP	_	4	nmod	_	SpaceAfter=No
+2	亲爱	亲爱	ADJ	JJ	_	4	amod	_	SpaceAfter=No
+3	呃	呃	SCONJ	DEC	_	2	mark	_	SpaceAfter=No
+4	老婆	老婆	NOUN	NN	_	7	vocative	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+7	等	等	VERB	VV	_	0	root	_	SpaceAfter=No
+8	了	了	AUX	AS	_	7	aux	_	SpaceAfter=No
+9	老	老	ADV	RB	_	10	advmod	_	SpaceAfter=No
+10	许多	许多	ADJ	JJ	_	11	amod	_	SpaceAfter=No
+11	辰光	辰光	NOUN	NN	_	7	obj	_	SpaceAfter=No
+12	吧	吧	PART	UH	_	7	discourse	_	SpaceAfter=No
+13	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 590
+# text = 为啥，吾介差吗？
+# text_cmn = 为什么，我这么差吗？
+1	为啥	为啥	ADP	IN	_	5	parataxis	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+4	介	介	ADV	RB	_	5	advmod	_	SpaceAfter=No
+5	差	差	ADJ	JJ	_	0	root	_	SpaceAfter=No
+6	吗	吗	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
+7	？	？	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 220
+# text = 吾是上怕，伐讲了，早眼困伐。
+# text_cmn = 我是害怕，不讲了，早点睡吧。
+1	吾	吾	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	是	是	VERB	VC	_	9	parataxis	_	SpaceAfter=No
+3	上怕	上怕	VERB	VV	_	2	advcl	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+5	伐讲	伐讲	VERB	VV	_	9	parataxis	_	SpaceAfter=No
+6	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
+8	早眼	早眼	ADV	RB	_	9	advmod	_	SpaceAfter=No
+9	困	困	VERB	VV	_	0	root	_	SpaceAfter=No
+10	伐	伐	PART	UH	_	9	discourse	_	SpaceAfter=No
+11	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 69
+# text = 戆大，侬真呃是又笨又好气又让人爱呃猪猡头。
+# text_cmn = 笨蛋，你真的是又笨又好气又让人爱的猪头。
+1	戆大	戆大	NOUN	NN	_	15	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	侬	侬	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
+4	真呃	真呃	ADV	RB	_	5	advmod	_	SpaceAfter=No
+5	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
+6	又	又	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+7	笨	笨	ADJ	JJ	_	15	amod	_	SpaceAfter=No
+8	又	又	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+9	好气	好气	ADJ	JJ	_	7	conj	_	SpaceAfter=No
+10	又	又	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+11	让	让	VERB	VV	_	7	conj	_	SpaceAfter=No
+12	人	人	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
+13	爱	爱	VERB	VV	_	11	ccomp	_	SpaceAfter=No
+14	呃	呃	SCONJ	DEC	_	7	mark	_	SpaceAfter=No
+15	猪猡头	猪猡头	NOUN	NN	_	0	root	_	SpaceAfter=No
+16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
+
+# sent_id = 279
+# text = 吾老早就看出来了！
+# text_cmn = 我很早就看出来了！
+1	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	老早	老早	ADJ	JJ	_	4	advmod	_	SpaceAfter=No
+3	就	就	SCONJ	RB	_	4	mark	_	SpaceAfter=No
+4	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+5	出来	出来	VERB	VV	_	4	mark	_	SpaceAfter=No
+6	了	了	PART	UH	_	4	discourse	_	SpaceAfter=No
+7	！	！	PUNCT	:	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 416
+# text = 侬是，但是谢谢哦！
+# text_cmn = 你是，但是谢谢哦！
+1	侬	侬	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	是	是	AUX	VC	_	5	parataxis	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	但是	但是	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	谢谢	谢谢	VERB	VV	_	0	root	_	SpaceAfter=No
+6	哦	哦	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
+7	！	！	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 329
+# text = 哦，吾就辣该阿拉屋里相门口。
+# text_cmn = 哦，我就在我们家门口。
+1	哦	哦	INTJ	WP	_	5	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+4	就	就	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	辣该	辣该	VERB	VV	_	0	root	_	SpaceAfter=No
+6	阿拉	阿拉	PRON	PRP	_	7	compound	_	SpaceAfter=No
+7	屋里相	屋里相	PART	SFN	_	8	nmod	_	SpaceAfter=No
+8	门口	门口	NOUN	NN	_	5	obj	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 841
+# text = 最近比较忙，下趟再讲伐！
+# text_cmn = 最近比较忙，下次再说吧！
+1	最近	最近	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	比较	比较	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	忙	忙	ADJ	JJ	_	7	parataxis	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+5	下趟	下趟	ADV	RB	_	7	advmod	_	SpaceAfter=No
+6	再	再	ADV	RB	_	7	advmod	_	SpaceAfter=No
+7	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No
+8	伐	伐	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 984
+# text = 对自家没好处，装帅是伐！
+# text_cmn = 对自己没好处，装帅是吧！
+1	对	对	ADP	IN	_	2	case	_	SpaceAfter=No
+2	自家	自家	PRON	PRD	_	3	nsubj	_	SpaceAfter=No
+3	没好	没好	VERB	VV	_	7	parataxis	_	SpaceAfter=No
+4	处	处	VERB	VV	_	3	xcomp	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+6	装帅	装帅	VERB	VV	_	7	csubj	_	SpaceAfter=No
+7	是	是	AUX	VC	_	0	root	_	SpaceAfter=No
+8	伐	伐	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 858
+# text = 侬孛相呃呢，吾勒和丰。
+# text_cmn = 你玩的呢，我在和丰。
+1	侬	侬	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	孛相	孛相	VERB	VV	_	0	root	_	SpaceAfter=No
+3	呃	呃	PART	UH	_	2	discourse	_	SpaceAfter=No
+4	呢	呢	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+5	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+6	吾	吾	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+7	勒	勒	VERB	VV	_	2	parataxis	_	SpaceAfter=No
+8	和丰	和丰	PROPN	NNP	_	7	obj	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 238
+# text = 又查岗啊，吾孛相特一歇就困。
+# text_cmn = 又查岗啊，我玩了一会就睡。
+1	又	又	SCONJ	RB	_	2	mark	_	SpaceAfter=No
+2	查岗	查岗	VERB	VV	_	6	parataxis	_	SpaceAfter=No
+3	啊	啊	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+5	吾	吾	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
+6	孛相	孛相	VERB	VV	_	0	root	_	SpaceAfter=No
+7	特	特	AUX	AS	_	6	aux	_	SpaceAfter=No
+8	一歇	一歇	ADV	RB	_	6	advmod	_	SpaceAfter=No
+9	就	就	SCONJ	RB	_	10	mark	_	SpaceAfter=No
+10	困	困	VERB	VV	_	6	xcomp	_	SpaceAfter=No
+11	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 59
+# text = 哦，吾也躺下来了
+# text_cmn = 哦，我也躺下来了
+1	哦	哦	INTJ	WP	_	5	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+4	也	也	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	躺	躺	VERB	VV	_	0	root	_	SpaceAfter=No
+6	下来	下来	VERB	VV	_	5	mark	_	SpaceAfter=No
+7	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
+
+# sent_id = 810
+# text = 哪能伐困，心情伐好。
+# text_cmn = 怎么不睡，心情不好。
+1	哪能	哪能	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	伐困	伐困	VERB	VV	_	5	parataxis	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	心情	心情	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
+5	伐好	伐好	ADJ	JJ	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 802
+# text = 啥事体侪往好呃想，心情自然就会好！
+# text_cmn = 什么事都往好的想，心情自然就会好！
+1	啥	啥	PRON	WP	_	2	det	_	SpaceAfter=No
+2	事体	事体	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
+3	侪	侪	SCONJ	RB	_	6	mark	_	SpaceAfter=No
+4	往好	往好	ADJ	JJ	_	6	advmod	_	SpaceAfter=No
+5	呃	呃	SCONJ	DEV	_	4	mark	_	SpaceAfter=No
+6	想	想	AUX	MD	_	0	root	_	SpaceAfter=No
+7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
+8	心情	心情	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
+9	自然	自然	ADV	RB	_	12	advmod	_	SpaceAfter=No
+10	就	就	SCONJ	RB	_	12	mark	_	SpaceAfter=No
+11	会	会	AUX	MD	_	12	aux	_	SpaceAfter=No
+12	好	好	ADJ	JJ	_	6	parataxis	_	SpaceAfter=No
+13	！	！	PUNCT	.	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 338
+# text = 侬好象忘记特讲撒物事了。
+# text_cmn = 你好象忘记了说什么东西了。
+1	侬	侬	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	好象	好象	ADV	RB	_	3	advmod	_	SpaceAfter=No
+3	忘记特	忘记特	VERB	VV	_	0	root	_	SpaceAfter=No
+4	讲	讲	VERB	VV	_	3	mark	_	SpaceAfter=No
+5	撒	撒	PRON	WP	_	6	nmod	_	SpaceAfter=No
+6	物事	物事	NOUN	NN	_	3	obj	_	SpaceAfter=No
+7	了	了	PART	UH	_	3	discourse	_	SpaceAfter=No
+8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 715
+# text = 是想吾吗，还是想撒物事？
+# text_cmn = 是想我吗，还是想什么东西？
+1	是	是	VERB	VC	_	9	acl	_	SpaceAfter=No
+2	想	想	VERB	VV	_	1	xcomp	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	2	obj	_	SpaceAfter=No
+4	吗	吗	PART	UH	_	1	discourse	_	PartType=Int|SpaceAfter=No
+5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+6	还是	还是	SCONJ	RB	_	9	mark	_	SpaceAfter=No
+7	想	想	AUX	MD	_	9	aux	_	SpaceAfter=No
+8	撒	撒	PRON	WP	_	9	nmod	_	SpaceAfter=No
+9	物事	物事	NOUN	NN	_	0	root	_	SpaceAfter=No
+10	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 228
+# text = 死丫头，侬哪能想到吾啦。
+# text_cmn = 死丫头，你怎么想到我啦。
+1	死	死	ADJ	VV	_	2	acl	_	SpaceAfter=No
+2	丫头	丫头	NOUN	SFN	_	6	vocative	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	侬	侬	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
+5	哪能	哪能	ADV	RB	_	6	advmod	_	SpaceAfter=No
+6	想到	想到	VERB	VV	_	0	root	_	SpaceAfter=No
+7	吾	吾	PRON	PRP	_	6	obj	_	SpaceAfter=No
+8	啦	啦	PART	UH	_	6	discourse	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 580
+# text = 哼哼，吾就气侬。
+# text_cmn = 哼哼，我就气你。
+1	哼哼	哼哼	PART	NNP	_	5	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+4	就	就	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+5	气	气	VERB	VV	_	0	root	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	5	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 718
+# text = 可能还要一歇在能回来！
+# text_cmn = 可能还要一会才能回来！
+1	可能	可能	AUX	MD	_	5	aux	_	SpaceAfter=No
+2	还要	还要	AUX	MD	_	5	aux	_	SpaceAfter=No
+3	一歇	一歇	ADV	RB	_	5	advmod	_	SpaceAfter=No
+4	在能	在能	AUX	MD	_	5	aux	_	SpaceAfter=No
+5	回来	回来	VERB	VV	_	0	root	_	SpaceAfter=No
+6	！	！	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 667
+# text = 侬可以再等吾四五年伐？
+# text_cmn = 你可以再等我四五年吗？
+1	侬	侬	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	可以	可以	AUX	MD	_	4	aux	_	SpaceAfter=No
+3	再	再	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	等	等	VERB	VV	_	0	root	_	SpaceAfter=No
+5	吾	吾	PRON	PRP	_	8	nmod	_	SpaceAfter=No
+6	四	四	NUM	CD	_	8	nummod	_	SpaceAfter=No
+7	五	五	NUM	CD	_	8	nummod	_	SpaceAfter=No
+8	年	年	NOUN	NNB	_	4	obl	_	SpaceAfter=No
+9	伐	伐	PART	UH	_	4	discourse	_	PartType=Int|SpaceAfter=No
+10	？	？	PUNCT	.	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 281
+# text = 就是教师资格证，黄和梁去了。
+# text_cmn = 就是教师资格证，黄和梁去了。
+1	就是	就是	AUX	VC	_	3	cop	_	SpaceAfter=No
+2	教师	教师	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	资格证	资格证	NOUN	NN	_	0	root	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+5	黄	黄	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
+6	和	和	CCONJ	NNP	_	7	cc	_	SpaceAfter=No
+7	梁	梁	PROPN	NNP	_	5	conj	_	SpaceAfter=No
+8	去了	去了	VERB	VV	_	3	parataxis	_	SpaceAfter=No
+9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 394
+# text = 哈哈！亲爱呃！没撒啊！老老想侬呃！
+# text_cmn = 哈哈！亲爱的！没什么啊！非常想你噢！
+1	哈哈	哈哈	PROPN	NNP	_	6	parataxis	_	SpaceAfter=No
+2	！	！	PUNCT	(	_	1	punct	_	SpaceAfter=No
+3	亲爱	亲爱	ADJ	JJ	_	6	vocative	_	SpaceAfter=No
+4	呃	呃	SCONJ	DEC	_	3	mark	_	SpaceAfter=No
+5	！	！	PUNCT	(	_	3	punct	_	SpaceAfter=No
+6	没撒	没撒	VERB	VV	_	0	root	_	SpaceAfter=No
+7	啊	啊	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No
+8	！	！	PUNCT	(	_	6	punct	_	SpaceAfter=No
+9	老老	老老	ADV	RB	_	10	advmod	_	SpaceAfter=No
+10	想	想	VERB	MD	_	6	parataxis	_	SpaceAfter=No
+11	侬	侬	PRON	PRP	_	10	obj	_	SpaceAfter=No
+12	呃	呃	PUNCT	.	_	11	punct	_	SpaceAfter=No
+13	！	！	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 479
+# text = 侬伐是开通彩信了吗？
+# text_cmn = 你不是开通彩信了吗？
+1	侬	侬	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
+2	伐是	伐是	VERB	VC	_	0	root	_	SpaceAfter=No
+3	开通	开通	VERB	VV	_	2	xcomp	_	SpaceAfter=No
+4	彩信	彩信	NOUN	NN	_	3	obj	_	SpaceAfter=No
+5	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
+6	吗	吗	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+7	？	？	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 170
+# text = 葛末侬明年子回来呃辰光估计就会得喊了。
+# text_cmn = 那么你明年回来的时候估计就会喊了。
+1	葛末	葛末	ADV	RB	_	10	advmod	_	SpaceAfter=No
+2	侬	侬	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+3	明年子	明年子	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	回来	回来	VERB	VV	_	6	acl	_	SpaceAfter=No
+5	呃	呃	SCONJ	DEC	_	4	mark	_	SpaceAfter=No
+6	辰光	辰光	NOUN	NN	_	10	nmod	_	SpaceAfter=No
+7	估计	估计	VERB	VV	_	10	advcl	_	SpaceAfter=No
+8	就	就	SCONJ	RB	_	10	mark	_	SpaceAfter=No
+9	会得	会得	AUX	MD	_	10	aux	_	SpaceAfter=No
+10	喊	喊	VERB	VV	_	0	root	_	SpaceAfter=No
+11	了	了	PART	UH	_	10	discourse	_	SpaceAfter=No
+12	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 996
+# text = 所以那俩就好好谈伐！
+# text_cmn = 所以你们俩就好好谈吧！
+1	所以	所以	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+2	那俩	那俩	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+3	就	就	SCONJ	RB	_	5	mark	_	SpaceAfter=No
+4	好好	好好	ADV	RB	_	5	advmod	_	SpaceAfter=No
+5	谈	谈	VERB	VV	_	0	root	_	SpaceAfter=No
+6	伐	伐	PART	UH	_	5	discourse	_	SpaceAfter=No
+7	！	！	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 761
+# text = 困着了伐，感觉还可以伐！
+# text_cmn = 睡着了吗，感觉还可以吧！
+1	困着	困着	VERB	VV	_	7	parataxis	_	SpaceAfter=No
+2	了	了	PART	UH	_	1	discourse	_	SpaceAfter=No
+3	伐	伐	PART	UH	_	1	discourse	_	PartType=Int|SpaceAfter=No
+4	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+5	感觉	感觉	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+6	还	还	SCONJ	RB	_	7	mark	_	SpaceAfter=No
+7	可以	可以	AUX	MD	_	0	root	_	SpaceAfter=No
+8	伐	伐	PART	UH	_	7	discourse	_	SpaceAfter=No
+9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 555
+# text = 两零零困觉伐？
+# text_cmn = 两零零睡觉吗？
+1	两零零	两零零	NUM	CD	_	2	nsubj	_	SpaceAfter=No
+2	困觉	困觉	VERB	VV	_	0	root	_	SpaceAfter=No
+3	伐	伐	PART	UH	_	2	discourse	_	PartType=Int|SpaceAfter=No
+4	？	？	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 179
+# text = 朋友包括老多。
+# text_cmn = 朋友包括很多。
+1	朋友	朋友	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
+2	包括	包括	VERB	VV	_	0	root	_	SpaceAfter=No
+3	老多	老多	PROPN	CD	_	2	obj	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 964
+# text = 那安全到了伐？
+# text_cmn = 你们安全到了吗？
+1	那	那	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	安全	安全	ADV	NN	_	3	advmod	_	SpaceAfter=No
+3	到	到	VERB	VV	_	0	root	_	SpaceAfter=No
+4	了	了	PART	UH	_	3	discourse	_	SpaceAfter=No
+5	伐	伐	PART	UH	_	3	discourse	_	PartType=Int|SpaceAfter=No
+6	？	？	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 634
+# text = 啊，哪能还伐回去休息啊，闷热撒啊！
+# text_cmn = 啊，怎么还不回去休息啊，闷热撒啊！
+1	啊	啊	INTJ	JJ	_	11	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	哪能	哪能	ADV	RB	_	7	advmod	_	SpaceAfter=No
+4	还	还	SCONJ	RB	_	7	mark	_	SpaceAfter=No
+5	伐	伐	ADV	RB	_	7	advmod	_	SpaceAfter=No
+6	回去	回去	VERB	VV	_	7	advcl	_	SpaceAfter=No
+7	休息	休息	VERB	VV	_	11	parataxis	_	SpaceAfter=No
+8	啊	啊	PART	UH	_	7	discourse	_	PartType=Int|SpaceAfter=No
+9	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
+10	闷热	闷热	ADJ	JJ	_	11	advcl	_	SpaceAfter=No
+11	撒	撒	VERB	VV	_	0	root	_	SpaceAfter=No
+12	啊	啊	PART	UH	_	11	discourse	_	PartType=Int|SpaceAfter=No
+13	！	！	PUNCT	.	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 75
+# text = 做生活吃力伐？
+# text_cmn = 干活累吗？
+1	做	做	VERB	NN	_	3	csubj	_	SpaceAfter=No
+2	生活	生活	NOUN	JJ	_	1	obj	_	SpaceAfter=No
+3	吃力	吃力	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	伐	伐	PART	UH	_	3	discourse	_	PartType=Int|SpaceAfter=No
+5	？	？	PUNCT	.	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 676
+# text = 唉，愁的吾还没去呢！
+# text_cmn = 唉，愁的我还没去呢！
+1	唉	唉	INTJ	(	_	7	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	愁	愁	VERB	VV	_	5	acl	_	SpaceAfter=No
+4	的	的	SCONJ	DEC	_	3	mark	_	SpaceAfter=No
+5	吾	吾	PRON	PRP	_	7	nsubj	_	SpaceAfter=No
+6	还	还	SCONJ	RB	_	7	mark	_	SpaceAfter=No
+7	没去	没去	VERB	VV	_	0	root	_	SpaceAfter=No
+8	呢	呢	PART	UH	_	7	discourse	_	PartType=Int|SpaceAfter=No
+9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 713
+# text = 老婆，吾刚休息。
+# text_cmn = 老婆，我刚休息。
+1	老婆	老婆	NOUN	NN	_	5	vocative	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+4	刚	刚	ADV	RB	_	5	advmod	_	SpaceAfter=No
+5	休息	休息	VERB	VV	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 972
+# text = 哥哥好久没联系了，侬还好吗，上班吗？
+# text_cmn = 哥哥好久没联系了，你还好吗，上班吗？
+1	哥哥	哥哥	NOUN	NN	_	4	vocative	_	SpaceAfter=No
+2	好久	好久	ADV	RB	_	4	advmod	_	SpaceAfter=No
+3	没	没	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	联系	联系	VERB	VV	_	0	root	_	SpaceAfter=No
+5	了	了	AUX	AS	_	4	aux	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
+8	还	还	SCONJ	RB	_	9	mark	_	SpaceAfter=No
+9	好	好	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No
+10	吗	吗	PART	UH	_	9	discourse	_	PartType=Int|SpaceAfter=No
+11	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
+12	上班	上班	VERB	VV	_	4	parataxis	_	SpaceAfter=No
+13	吗	吗	PART	UH	_	12	discourse	_	PartType=Int|SpaceAfter=No
+14	？	？	PUNCT	.	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 277
+# text = 发信息好伐，吾帮侬答。
+# text_cmn = 发信息好吗，我给你回答。
+1	发	发	VERB	VV	_	3	csubj	_	SpaceAfter=No
+2	信息	信息	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	好	好	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	伐	伐	PART	UH	_	3	discourse	_	PartType=Int|SpaceAfter=No
+5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
+6	吾	吾	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
+7	帮	帮	VERB	VV	_	9	advcl	_	SpaceAfter=No
+8	侬	侬	PRON	PRP	_	7	obj	_	SpaceAfter=No
+9	答	答	VERB	VV	_	3	parataxis	_	SpaceAfter=No
+10	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 700
+# text = 嘿嘿，还是比伐上侬啦！
+# text_cmn = 嘿嘿，还是比不上你啦！
+1	嘿嘿	嘿嘿	INTJ	NNP	_	4	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+3	还是	还是	SCONJ	RB	_	4	mark	_	SpaceAfter=No
+4	比	比	VERB	VV	_	0	root	_	SpaceAfter=No
+5	伐	伐	ADV	RB	_	4	advmod	_	SpaceAfter=No
+6	上	上	VERB	VV	_	4	mark	_	SpaceAfter=No
+7	侬	侬	PRON	PRP	_	4	obj	_	SpaceAfter=No
+8	啦	啦	PART	UH	_	4	discourse	_	PartType=Int|SpaceAfter=No
+9	！	！	PUNCT	''	_	4	punct	_	SpaceAfter=No
+
