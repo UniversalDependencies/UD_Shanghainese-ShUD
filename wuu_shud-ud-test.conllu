@@ -45,9 +45,9 @@
 2	了	了	PART	UH	_	1	discourse	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 4	侬	侬	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
-5	还是	还是	AUX	VC	_	6	cop	_	SpaceAfter=No
+5	还是	还是	AUX	VC	_	6	aux	_	SpaceAfter=No
 6	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
-7	着	着	NOUN	NNB	_	6	obj	_	SpaceAfter=No
+7	着	着	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 8	好梦	好梦	NOUN	NN	_	6	obj	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -515,7 +515,7 @@
 # text = 阿拉还是阿拉！
 # text_cmn = 我们还是我们！
 1	阿拉	阿拉	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
-2	还是	还是	AUX	VC	_	3	cop	_	SpaceAfter=No
+2	还是	还是	AUX	VC	_	3	aux	_	SpaceAfter=No
 3	阿拉	阿拉	PRON	PRP	_	0	root	_	SpaceAfter=No
 4	！	！	PUNCT	.	_	3	punct	_	SpaceAfter=No
 

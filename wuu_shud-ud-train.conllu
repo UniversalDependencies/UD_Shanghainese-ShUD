@@ -130,7 +130,7 @@
 5	吾	吾	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
 6	回来	回来	VERB	VV	_	0	root	_	SpaceAfter=No
 7	寻	寻	VERB	VV	_	6	advcl	_	SpaceAfter=No
-8	侬	侬	PRON	PRP	_	7	obj	_	SpaceAfter=No
+8	侬	侬	PRON	PRP	_	7	iobj	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = 659
@@ -237,7 +237,7 @@
 3	那	那	ADV	PRD	_	5	advmod	_	SpaceAfter=No
 4	吾	吾	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
 5	成全	成全	VERB	VV	_	0	root	_	SpaceAfter=No
-6	侬	侬	PRON	PRP	_	5	obj	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	5	iobj	_	SpaceAfter=No
 7	伐	伐	PART	UH	_	5	discourse	_	SpaceAfter=No
 8	！	！	PUNCT	''	_	5	punct	_	SpaceAfter=No
 
@@ -385,7 +385,7 @@
 # text_cmn = 看样子还是我的魄力不足！
 1	看	看	VERB	VV	_	7	advcl	_	SpaceAfter=No
 2	样子	样子	NOUN	NN	_	1	obj	_	SpaceAfter=No
-3	还是	还是	AUX	VC	_	7	cop	_	SpaceAfter=No
+3	还是	还是	AUX	VC	_	7	aux	_	SpaceAfter=No
 4	吾	吾	PRON	PRP	_	6	det	_	SpaceAfter=No
 5	呃	呃	PART	DEC	_	4	case	_	SpaceAfter=No
 6	魄力	魄力	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
@@ -818,7 +818,7 @@
 # text = 侬伐是马成对伐？
 # text_cmn = 你不是马成对吗？
 1	侬	侬	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
-2	伐是	伐是	AUX	VC	_	3	cop	_	SpaceAfter=No
+2	伐是	伐是	AUX	VC	_	3	aux	_	SpaceAfter=No
 3	马成	马成	PROPN	NNP	_	0	root	_	SpaceAfter=No
 4	对	对	ADJ	UH	_	3	discourse	_	SpaceAfter=No
 5	伐	伐	PART	UH	_	4	mark	_	PartType=Int|SpaceAfter=No
@@ -1196,7 +1196,7 @@
 # text_cmn = 或许我就是一个多余的不该有的累赘吧！
 1	或许	或许	VERB	VV	_	0	root	_	SpaceAfter=No
 2	吾	吾	PRON	PRP	_	10	nsubj	_	SpaceAfter=No
-3	就是	就是	AUX	VC	_	10	cop	_	SpaceAfter=No
+3	就是	就是	AUX	VC	_	10	aux	_	SpaceAfter=No
 4	一	一	NUM	CD	_	5	nummod	_	SpaceAfter=No
 5	个	个	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
 6	多余	多余	ADJ	JJ	_	10	amod	_	SpaceAfter=No
@@ -1262,7 +1262,7 @@
 1	侬	侬	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
 2	给	给	VERB	VV	_	5	advcl	_	SpaceAfter=No
 3	机会	机会	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	吾	吾	PRON	PRP	_	2	obj	_	SpaceAfter=No
+4	吾	吾	PRON	PRP	_	2	iobj	_	SpaceAfter=No
 5	关心	关心	VERB	VV	_	0	root	_	SpaceAfter=No
 6	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
 7	伐	伐	PART	UH	_	5	discourse	_	PartType=Int|SpaceAfter=No
@@ -1388,7 +1388,7 @@
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	号头	号头	NOUN	NN	_	4	obj	_	SpaceAfter=No
 4	发	发	VERB	VV	_	0	root	_	SpaceAfter=No
-5	两个	两个	NUM	CD	_	4	obj	_	SpaceAfter=No
+5	两个	两个	NUM	CD	_	3	nummod	_	SpaceAfter=No
 6	呀	呀	PART	UH	_	4	discourse	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 8	吾	吾	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
@@ -2776,7 +2776,7 @@
 2	帮	帮	ADP	IN	_	3	case	_	SpaceAfter=No
 3	侬	侬	PRON	PRP	_	4	obl	_	SpaceAfter=No
 4	聊聊	聊聊	VERB	VV	_	13	parataxis	_	SpaceAfter=No
-5	工作	工作	NOUN	NN	_	4	obj	_	SpaceAfter=No
+5	工作	工作	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	高头	高头	ADP	IN	_	5	case	_	SpaceAfter=No
 7	呃	呃	SCONJ	DEC	_	4	mark	_	SpaceAfter=No
 8	事体	事体	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -2874,7 +2874,7 @@
 7	眼	眼	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	辰光	辰光	NOUN	NN	_	6	obj	_	SpaceAfter=No
 9	陪陪	陪陪	VERB	VV	_	0	root	_	SpaceAfter=No
-10	吾	吾	PRON	PRP	_	9	obj	_	SpaceAfter=No
+10	吾	吾	PRON	PRP	_	9	iobj	_	SpaceAfter=No
 11	呀	呀	PART	UH	_	9	discourse	_	PartType=Int|SpaceAfter=No
 12	！	！	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -3170,7 +3170,7 @@
 2	哪能	哪能	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
-5	伐是	伐是	AUX	VC	_	4	cop	_	SpaceAfter=No
+5	伐是	伐是	AUX	VC	_	4	aux	_	SpaceAfter=No
 6	老	老	ADV	RB	_	7	advmod	_	SpaceAfter=No
 7	开心	开心	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No
 8	啊	啊	PART	UH	_	4	discourse	_	PartType=Int|SpaceAfter=No
@@ -4017,7 +4017,7 @@
 9	俩	俩	NUM	CD	_	10	nummod	_	SpaceAfter=No
 10	个	个	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
 11	拧	拧	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
-12	伐是	伐是	AUX	VC	_	15	cop	_	SpaceAfter=No
+12	伐是	伐是	AUX	VC	_	15	aux	_	SpaceAfter=No
 13	一般性	一般性	ADJ	JJ	_	15	amod	_	SpaceAfter=No
 14	呃	呃	SCONJ	DEC	_	13	mark	_	SpaceAfter=No
 15	关系	关系	NOUN	NN	_	7	ccomp	_	SpaceAfter=No
@@ -5667,7 +5667,7 @@
 1	有呃	有呃	DET	DT	_	2	det	_	SpaceAfter=No
 2	辰光	辰光	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 3	放弃	放弃	NOUN	VV	_	7	nsubj	_	SpaceAfter=No
-4	也是	也是	AUX	VC	_	7	cop	_	SpaceAfter=No
+4	也是	也是	AUX	VC	_	7	aux	_	SpaceAfter=No
 5	一种	一种	DET	DT	_	7	det	_	SpaceAfter=No
 6	好呃	好呃	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 7	选择	选择	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -5988,7 +5988,7 @@
 1	阿拉	阿拉	PRON	PRP	_	3	det	_	SpaceAfter=No
 2	呃	呃	PART	DEC	_	1	case	_	SpaceAfter=No
 3	感情	感情	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
-4	伐是	伐是	AUX	VC	_	8	cop	_	SpaceAfter=No
+4	伐是	伐是	AUX	VC	_	8	aux	_	SpaceAfter=No
 5	侬	侬	PRON	PRP	_	8	nmod	_	SpaceAfter=No
 6	想	想	AUX	MD	_	8	aux	_	SpaceAfter=No
 7	呃	呃	PART	UH	_	8	discourse	_	SpaceAfter=No
@@ -6459,7 +6459,7 @@
 # text = 逃离伐是办法，对待困难侬强伊就弱。
 # text_cmn = 逃离不是办法，对待困难你强他就弱。
 1	逃离	逃离	VERB	VV	_	3	csubj	_	SpaceAfter=No
-2	伐是	伐是	AUX	VC	_	3	cop	_	SpaceAfter=No
+2	伐是	伐是	AUX	VC	_	3	aux	_	SpaceAfter=No
 3	办法	办法	NOUN	NN	_	5	parataxis	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	对待	对待	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6871,9 +6871,9 @@
 # text_cmn = 你给我发张相片好不好？
 1	侬	侬	PRON	PRP	_	2	nsubj	_	SpaceAfter=No
 2	给	给	VERB	VV	_	0	root	_	SpaceAfter=No
-3	吾	吾	PRON	PRP	_	4	obj	_	SpaceAfter=No
+3	吾	吾	PRON	PRP	_	4	iobj	_	SpaceAfter=No
 4	发	发	VERB	VV	_	7	advcl	_	SpaceAfter=No
-5	则	则	PROPN	NNP	_	4	obj	_	SpaceAfter=No
+5	则	则	PRON	NNP	_	6	det	_	SpaceAfter=No
 6	相片	相片	NOUN	NN	_	4	obj	_	SpaceAfter=No
 7	好	好	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No
 8	伐好	伐好	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No
@@ -7149,7 +7149,7 @@
 6	今年子	今年子	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 7	前头	前头	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 8	真呃	真呃	ADV	RB	_	10	advmod	_	SpaceAfter=No
-9	伐是	伐是	AUX	VC	_	10	cop	_	SpaceAfter=No
+9	伐是	伐是	AUX	VC	_	10	aux	_	SpaceAfter=No
 10	老好	老好	ADJ	JJ	_	3	parataxis	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -7228,7 +7228,7 @@
 2	希望	希望	VERB	VV	_	4	csubj	_	SpaceAfter=No
 3	呃	呃	SCONJ	DEC	_	2	mark	_	SpaceAfter=No
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
-5	伐是	伐是	AUX	VC	_	6	cop	_	SpaceAfter=No
+5	伐是	伐是	AUX	VC	_	6	aux	_	SpaceAfter=No
 6	搿能噶	搿能噶	PRON	PRD	_	4	xcomp	_	SpaceAfter=No
 7	？	？	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -7316,7 +7316,7 @@
 8	侬	侬	PRON	PRP	_	7	obj	_	SpaceAfter=No
 9	啊	啊	PART	UH	_	7	discourse	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
-11	侪是	侪是	AUX	VC	_	13	cop	_	SpaceAfter=No
+11	侪是	侪是	AUX	VC	_	13	aux	_	SpaceAfter=No
 12	吾呃	吾呃	PRON	WP	_	13	nmod	_	SpaceAfter=No
 13	错	错	ADJ	JJ	_	0	root	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
