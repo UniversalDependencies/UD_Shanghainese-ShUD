@@ -358,7 +358,7 @@
 3	吾	吾	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
 4	没	没	VERB	RB	_	0	root	_	SpaceAfter=No
 5	讨厌	讨厌	VERB	VV	_	8	acl	_	SpaceAfter=No
-6	侬	侬	PRON	PRP	_	5	obj	_	SpaceAfter=No
+6	侬	侬	PRON	PRP	_	5	iobj	_	SpaceAfter=No
 7	呃	呃	PART	DEC	_	6	case	_	SpaceAfter=No
 8	意思	意思	NOUN	NN	_	4	obj	_	SpaceAfter=No
 9	！	！	PUNCT	.	_	4	punct	_	SpaceAfter=No
@@ -1021,7 +1021,7 @@
 5	了	了	AUX	AS	_	4	aux	_	SpaceAfter=No
 6	！	！	PUNCT	(	_	4	punct	_	SpaceAfter=No
 7	想	想	VERB	VV	_	4	parataxis	_	SpaceAfter=No
-8	侬	侬	PRON	PRP	_	7	obj	_	SpaceAfter=No
+8	侬	侬	PRON	PRP	_	7	iobj	_	SpaceAfter=No
 9	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = 367
@@ -6138,7 +6138,7 @@
 7	电话	电话	NOUN	NN	_	9	obj	_	SpaceAfter=No
 8	好	好	AUX	MD	_	9	aux	_	SpaceAfter=No
 9	拨	拨	VERB	VV	_	0	root	_	SpaceAfter=No
-10	吾	吾	PRON	PRP	_	9	obj	_	SpaceAfter=No
+10	吾	吾	PRON	PRP	_	9	iobj	_	SpaceAfter=No
 11	伐	伐	PART	UH	_	9	discourse	_	PartType=Int|SpaceAfter=No
 12	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
