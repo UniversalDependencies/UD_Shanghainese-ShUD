@@ -367,7 +367,7 @@
 # text_cmn = 在抄昨天你的论文，就没给你回。
 1	嘞	嘞	ADP	IN	_	2	case	_	SpaceAfter=No
 2	抄	抄	VERB	VV	_	12	xcomp	_	SpaceAfter=No
-3	昨日	昨日	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	昨日	昨日	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 4	弄	弄	PRON	PRP	_	6	det	_	SpaceAfter=No
 5	呃	呃	PART	DEC	_	4	case	_	SpaceAfter=No
 6	论文	论文	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -410,7 +410,7 @@
 # text = 侬调号头了，还辣海屋里向登了该啊！
 # text_cmn = 你换号码了，还在家里面待着啊！
 1	侬	侬	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
-2	调	调	VERB	VV	_	8	conj	_	SpaceAfter=No
+2	调	调	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 3	号头	号头	NOUN	NN	_	2	obj	_	SpaceAfter=No
 4	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
@@ -1140,7 +1140,7 @@
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	奇	奇	PROPN	NNP	_	10	vocative	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
-5	搿	搿	DET	DT	_	6	det	_	SpaceAfter=No
+5	搿	搿	DET	DT	_	7	det	_	SpaceAfter=No
 6	段	段	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	辰光	辰光	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	压力	压力	NOUN	NN	_	10	nsubj	_	SpaceAfter=No

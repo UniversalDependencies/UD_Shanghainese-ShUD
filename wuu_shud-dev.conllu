@@ -16,7 +16,7 @@
 3	吃	吃	VERB	VV	_	12	advcl	_	SpaceAfter=No
 4	眼	眼	ADJ	SFN	_	5	amod	_	SpaceAfter=No
 5	物事	物事	NOUN	NN	_	3	obj	_	SpaceAfter=No
-6	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 7	李子	李子	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	有	有	VERB	VV	_	12	advcl	_	SpaceAfter=No
 9	减肥	减肥	NOUN	NN	_	10	nmod	_	SpaceAfter=No
@@ -232,7 +232,7 @@
 2	能	能	AUX	MD	_	3	aux	_	SpaceAfter=No
 3	回来	回来	VERB	VV	_	11	advcl	_	SpaceAfter=No
 4	呃	呃	SCONJ	DEC	_	3	mark	_	SpaceAfter=No
-5	闲话	闲话	SCONJ	NN	_	4	goeswith	_	SpaceAfter=No
+5	闲话	闲话	SCONJ	NN	_	3	mark	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 7	阿拉	阿拉	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
 8	再	再	ADV	RB	_	11	advmod	_	SpaceAfter=No
@@ -247,7 +247,7 @@
 # text_cmn = 看中人家啦？
 1	看中	看中	VERB	VV	_	0	root	_	SpaceAfter=No
 2	人	人	NOUN	NN	_	1	obj	_	SpaceAfter=No
-3	家	家	NOUN	SFN	_	2	goeswith	_	SpaceAfter=No
+3	家	家	NOUN	SFN	_	2	compound	_	SpaceAfter=No
 4	啦	啦	PART	UH	_	1	discourse	_	PartType=Int|SpaceAfter=No
 5	？	？	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
@@ -354,7 +354,7 @@
 1	哦	哦	INTJ	PRP	_	6	discourse	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	对	对	VERB	IN	_	6	parataxis	_	SpaceAfter=No
-4	伐起	伐起	VERB	VV	_	3	goeswith	_	SpaceAfter=No
+4	伐起	伐起	VERB	VV	_	3	compound	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 6	让	让	VERB	VV	_	0	root	_	SpaceAfter=No
 7	侬	侬	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
@@ -374,7 +374,7 @@
 7	侬	侬	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
 8	就	就	SCONJ	RB	_	11	mark	_	SpaceAfter=No
 9	勿帮	勿帮	VERB	VV	_	11	advcl	_	SpaceAfter=No
-10	吾	吾	PRON	PRP	_	11	nsubj	_	SpaceAfter=No
+10	吾	吾	PRON	PRP	_	9	obj	_	SpaceAfter=No
 11	过	过	VERB	VV	_	0	root	_	SpaceAfter=No
 12	了	了	PART	UH	_	11	discourse	_	SpaceAfter=No
 13	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -438,7 +438,7 @@
 # text = 弄快眼 困觉，伐瞎七搭八。
 # text_cmn = 你快点睡觉，不要瞎搞。
 1	弄	弄	PRON	PRP	_	6	parataxis	_	SpaceAfter=No
-2	快眼	快眼	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	快眼	快眼	ADV	_	_	3	advmod	_	_
 3	困觉	困觉	VERB	VV	_	6	advcl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	伐	伐	AUX	MD	_	6	aux	_	SpaceAfter=No
@@ -620,7 +620,7 @@
 3	了	了	PART	UH	_	2	discourse	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 5	有言	有言	VERB	VV	_	9	csubj	_	SpaceAfter=No
-6	在先	在先	VERB	VV	_	9	csubj	_	SpaceAfter=No
+6	在先	在先	VERB	VV	_	5	compound	_	SpaceAfter=No
 7	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
 8	撒物	撒物	PRON	WP	_	9	nmod	_	SpaceAfter=No
 9	事	事	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -705,7 +705,7 @@
 # text = 礼拜五好碰着头伐？
 # text_cmn = 礼拜五能碰个头吗？
 1	礼拜	礼拜	PROPN	VV	_	4	nmod	_	SpaceAfter=No
-2	五	五	NUM	CD	_	1	punct	_	SpaceAfter=No
+2	五	五	NUM	CD	_	1	nummod	_	SpaceAfter=No
 3	好	好	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	碰	碰	VERB	VV	_	0	root	_	SpaceAfter=No
 5	着	着	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
@@ -857,7 +857,7 @@
 1	戆大	戆大	NOUN	NN	_	15	vocative	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	侬	侬	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
-4	真呃	真呃	ADV	RB	_	5	advmod	_	SpaceAfter=No
+4	真呃	真呃	ADV	RB	_	15	advmod	_	SpaceAfter=No
 5	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 6	又	又	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	笨	笨	ADJ	JJ	_	15	amod	_	SpaceAfter=No
