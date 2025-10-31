@@ -5236,7 +5236,7 @@
 8	侬	侬	PRON	PRP	_	7	obj	_	SpaceAfter=No
 9	天天	天天	ADJ	JJ	_	10	advcl	_	SpaceAfter=No
 10	好	好	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-11	心情	心情	NOUN	NN	_	7	obj	_	SpaceAfter=No
+11	心情	心情	NOUN	NN	_	7	xcomp	_	SpaceAfter=No
 12	！	！	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = 686
@@ -7460,7 +7460,7 @@
 4	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 5	跨	跨	VERB	VV	_	0	root	_	SpaceAfter=No
 6	侬	侬	PRON	PRP	_	5	obj	_	SpaceAfter=No
-7	两句	两句	NOUN	NNB	_	5	obj	_	SpaceAfter=No
+7	两句	两句	NOUN	NNB	_	5	advcl	_	SpaceAfter=No
 8	侬	侬	PRON	PRP	_	10	nsubj	_	SpaceAfter=No
 9	还	还	SCONJ	RB	_	10	mark	_	SpaceAfter=No
 10	寻	寻	VERB	VV	_	5	ccomp	_	SpaceAfter=No
