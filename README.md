@@ -35,6 +35,6 @@ Features: manual native
 Relations: manual native
 Contributors: Yang, Qizhen
 Contributing: here
-Contact: qizhenyangsh@outlook.com
+Contact: qzyang.main@gmail.com
 ===============================================================================
 </pre>
