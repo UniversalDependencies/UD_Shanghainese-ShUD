@@ -1,0 +1,43 @@
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Shanghainese-ShUD:
+commit 1afbb6a71a658cf71973d466f1c2c5780d8961ab
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 15:34:47 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'wuu_shud'
+Language code (from CoNLL-U file name) = 'wuu'
+Found the following data files: wuu_shud-ud-dev.conllu, wuu_shud-ud-test.conllu, wuu_shud-ud-train.conllu
+Size: counted 8584 of 8584 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.29980001065679.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 0 out of 8584 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 33 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang wuu --max-err=10 UD_Shanghainese-ShUD/wuu_shud-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang wuu --max-err=10 UD_Shanghainese-ShUD/wuu_shud-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang wuu --max-err=10 UD_Shanghainese-ShUD/wuu_shud-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.311229902985965) = 0.115270334439246
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
+(TOTAL score=0.431544451693756) * (availability=1) * (validity=1) = 0.431544451693756
+STARS = 2
+UD_Shanghainese-ShUD	0.431544451693756	2
