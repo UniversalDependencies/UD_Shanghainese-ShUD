@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>983</sentences><tokens>8584</tokens><words>8584</words><fused>0</fused></total>
+    <train><sentences>786</sentences><tokens>6827</tokens><words>6827</words><fused>0</fused></train>
+    <dev><sentences>98</sentences><tokens>883</tokens><words>883</words><fused>0</fused></dev>
+    <test><sentences>99</sentences><tokens>874</tokens><words>874</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="1515" /><!-- ，, 吾, 侬, 。, ！, 了, 伐, ？, 呃, 啊, 是, 好, 就, 没, 讲 -->
+  <forms unique="1515" /><!-- ，, 吾, 侬, 。, ！, 了, 伐, ？, 呃, 啊, 是, 好, 就, 没, 讲 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">344</tag><!-- 好, 伐好, 亲爱, 一样, 伐着, 吃力, 开心, 晚, 哪能, 快 -->
+    <tag name="ADP">141</tag><!-- 跟, 帮, 拿, 对, 为, 辣, 从, 要是, 假使, 因为 -->
+    <tag name="ADV">594</tag><!-- 伐, 哪能, 没, 老, 辣, 再, 介, 搿, 葛末, 刚 -->
+    <tag name="AUX">403</tag><!-- 了, 是, 要, 想, 伐要, 会, 伐想, 会的, 伐是, 勒 -->
+    <tag name="CCONJ">15</tag><!-- 帮, 又, 跟, 也, 但, 和, 特, 而, 还是 -->
+    <tag name="DET">50</tag><!-- 搿, 那, 一个, 一切, 任何, 埃有, 搿呃, 每趟, 一种, 下趟 -->
+    <tag name="INTJ">101</tag><!-- 呵呵, 嗯, 哦, 唉, 恩, 哈哈, 噢, 没, 哈哈哈哈, 嘻嘻 -->
+    <tag name="NOUN">929</tag><!-- 电话, 今朝, 辰光, 现在, 明朝, 拧, 老婆, 事体, 个, 闲话 -->
+    <tag name="NUM">75</tag><!-- 一, 两, 一个, 第一, 三十, 两个, 五, 八, 几, 十 -->
+    <tag name="PART">907</tag><!-- 了, 伐, 呃, 啊, 吗, 啦, 呀, 呢, 哦, 勒 -->
+    <tag name="PRON">1157</tag><!-- 吾, 侬, 啥, 伊, 撒, 阿拉, 撒拧, 那, 搿能噶, 自家 -->
+    <tag name="PROPN">87</tag><!-- 宝贝, 吾, 明朝, 阿哥, 侬, 熊, 米泉, 主任, 乌, 乌市 -->
+    <tag name="PUNCT">1672</tag><!-- ，, 。, ！, ？, ?, 呃, 噢, ,, “, ” -->
+    <tag name="SCONJ">352</tag><!-- 就, 呃, 还, 侪, 也, 啊, 又, 去, 还是, 但是 -->
+    <tag name="VERB">1757</tag><!-- 讲, 困, 做, 困觉, 有, 没, 晓得, 想, 是, 拨 -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="33">
+    <dep name="acl">36</dep>
+    <dep name="advcl">252</dep>
+    <dep name="advmod">593</dep>
+    <dep name="amod">46</dep>
+    <dep name="appos">12</dep>
+    <dep name="aux">325</dep>
+    <dep name="case">211</dep>
+    <dep name="cc">13</dep>
+    <dep name="ccomp">145</dep>
+    <dep name="clf">26</dep>
+    <dep name="compound">56</dep>
+    <dep name="conj">26</dep>
+    <dep name="cop">42</dep>
+    <dep name="csubj">43</dep>
+    <dep name="dep">1</dep>
+    <dep name="det">100</dep>
+    <dep name="discourse">879</dep>
+    <dep name="dislocated">13</dep>
+    <dep name="flat">7</dep>
+    <dep name="iobj">11</dep>
+    <dep name="mark">425</dep>
+    <dep name="nmod">307</dep>
+    <dep name="nsubj">833</dep>
+    <dep name="nummod">65</dep>
+    <dep name="obj">636</dep>
+    <dep name="obl">117</dep>
+    <dep name="orphan">1</dep>
+    <dep name="parataxis">393</dep>
+    <dep name="punct">1672</dep>
+    <dep name="reparandum">2</dep>
+    <dep name="root">983</dep>
+    <dep name="vocative">93</dep>
+    <dep name="xcomp">220</dep>
+  </deps>
+</treebank>
